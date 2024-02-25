@@ -36,3 +36,4 @@ Snapshot and Info around the tools I am using.
 
 # Analytical Tools
 1. PowerBI - Can be found [here](/Analytics/powerbi.md)
+2. Google Analytics - Can be found [here](/Analytics/google-analytics.md)
