@@ -1,6 +1,13 @@
 # ToolsUsed
 Snapshot and Info around the tools I am using.
 
+# Office Tools
+ - [Excel](/Office/excel.md)
+ - [Word](/Office/word.md)
+ - [Powerpoint](/Office/ppt.md)
+ - [Outlook](/Office/outlook.md)
+ - [Teams](/Office/teams.md)
+  
 # HRIS Tools
 **Can refer [this](https://www.indeed.com/recruitment/c/info/hris-software-tools) link for further info.
 1. BambooHR - Good HandsOn, Details can be found [here](/BambooHR/Info.md)
@@ -23,3 +30,8 @@ Snapshot and Info around the tools I am using.
 
 # Labour Laws
  - Details can be found [here](/LaborLaws/Info.md)
+
+# HR Vocabulary
+ - HR jargons and common english replacement words [here](Vocab/Info.md)
+
+
