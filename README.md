@@ -1,5 +1,7 @@
-# ToolsUsed
-Snapshot and Info around the tools I am using.
+# My Learnings
+Snapshot and Info around the learning and tools I am using.
+
+# Quick Interview Prepration  - Commonly asked Q&A [here](/Interview/QnA.md)
 
 # Office Tools
  - [Excel](/Office/excel.md)
