@@ -34,4 +34,5 @@ Snapshot and Info around the tools I am using.
 # HR Vocabulary
  - HR jargons and common english replacement words [here](Vocab/Info.md)
 
-
+# Analytical Tools
+1. PowerBI - Can be found [here](/Analytics/powerbi.md)
