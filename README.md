@@ -20,3 +20,6 @@ Snapshot and Info around the tools I am using.
 
 # Recruitment Strategies and Tools
  - Details can be found [here](/Recruitment/Info.md)
+
+# Labour Laws
+ - Details can be found [here](/LaborLaws/Info.md)
