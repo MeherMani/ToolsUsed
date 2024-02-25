@@ -11,3 +11,12 @@ Snapshot and Info around the tools I am using.
 6. Gusto
 7. SAP Success Factor
 8. Bridge
+
+# LMS Tools / Instructional Design Tools
+1. Articulate Storyline 360 - Details can be found [here](/ArticualteStoryline/Info.md)
+2. TalentLMS
+3. Docebo
+4. Adobe Captivate
+
+# Recruitment Strategies and Tools
+ - Details can be found [here](/Recruitment/Info.md)
